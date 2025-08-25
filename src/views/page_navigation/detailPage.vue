@@ -21,5 +21,8 @@ const formData = reactive({
     <VueText id="viy2Text_VdffA" ref="viy2Text_VdffA" :style="{ width: '100%', display: 'inline-block' }">
       Detail Page!
     </VueText>
+    <VueText id="viy2Text_5AHLq" ref="viy2Text_5AHLq" :style="{ width: '100%', display: 'inline-block' }">
+      New text area to check commit message
+    </VueText>
   </VueForm>
 </template>
